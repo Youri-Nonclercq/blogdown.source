@@ -1,3 +1,3 @@
-# FIRSTNAME FAMILYNAME's Web Site
+# Youri Nonclercq's Web Site
 
-This is served as https://USERNAME.github.io, and the sources are in https://github.com/USERNAME/blogdown.source-USERNAME.
+This is served as https://Youri-Nonclercq.github.io, and the sources are in https://github.com/Youri-Nonclercq/blogdown.source-Youri-Nonclercq.
