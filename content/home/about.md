@@ -13,7 +13,8 @@ weight = 5
     "Biology",
     "Paleontology",
     "Nature",
-    "History"
+    "History",
+    "cinema"
   ]
 
 # List your qualifications (such as academic degrees).
