@@ -27,7 +27,8 @@ weight = 3
 
 Youri Nonclercq
 <br>
-<small>A short description of myself here</small>
+<small>I like science, nature and I study biology at the University of Mons 
+</small>
 <br><br>
 
 <script type="text/javascript">
