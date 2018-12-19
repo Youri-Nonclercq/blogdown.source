@@ -6,7 +6,7 @@ date = "2018-12-19"
 title = "First project about of the consequences of social networks on the sleep time "
 
 # Project summary to display on homepage.
-summary = "There are alot of reasurches about the impact of the social networks on the sleep time. We want to check this idea"
+summary = "There are a lot of researches about the impact of the social networks on the sleep time. We want to check it "
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "project.jpg"
