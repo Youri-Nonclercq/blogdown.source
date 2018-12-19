@@ -29,12 +29,13 @@ weight = 5
 #  year = 2021
 
 [[education.courses]]
-  course = "My orientation"
-  institution = "My high school"
+  course = "Biology"
+  institution = "University of Mons"
   year = 2018
 
 +++
 
 # About Me
 
-I am student at the University of Mons, Belgium... [tell here a little bit about you, using Markdown formatting]
+I like science, nature and I study biology at the university of Mons 
+ [tell here a little bit about you, using Markdown formatting]
