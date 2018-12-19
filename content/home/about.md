@@ -14,7 +14,7 @@ weight = 5
     "Paleontology",
     "Nature",
     "History",
-    "cinema"
+    "Cinema"
   ]
 
 # List your qualifications (such as academic degrees).
