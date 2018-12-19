@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2017-10-15
 
-title = " "
+title = "Title"
 
 # Order that this section will appear in.
 weight = 3
@@ -27,8 +27,7 @@ weight = 3
 
 Youri Nonclercq
 <br>
-<small>I like science, nature and I study biology at the University of Mons. 
-</small>
+<small>I like science, nature and I study biology at the University of Mons.</small>
 <br><br>
 
 <script type="text/javascript">

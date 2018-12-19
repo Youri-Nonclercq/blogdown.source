@@ -37,5 +37,5 @@ weight = 5
 
 # About Me
 
-I like science, nature and I study biology at the university of Mons 
+I like science, nature and I study biology at the University of Mons 
  [tell here a little bit about you, using Markdown formatting]
