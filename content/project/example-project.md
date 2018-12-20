@@ -35,7 +35,7 @@ Here all the contributors to this rapport:
 
 https://github.com/clement-tourbez/Socials-networks-consequences-on-sleep-quality/graphs/contributors
 
-#Introduction
+#Introduction.
 
 Recently, there have been a lot of discussions about the effects of social networks and video games on sleeping hours. We wanted to make some research about that subject and thus we gather some data about some factors that may help us understands the influence of video games and social network and the differences between genders. We also want to see the difference between the social netwok called facebook well know for everyone and the other social networks like snapchat , instagram , whatsapp , twitter and at least viber.
 
